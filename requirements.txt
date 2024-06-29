@@ -1,0 +1,3 @@
+facial_emotion_recognition
+numpy
+imutils
